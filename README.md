@@ -1,5 +1,5 @@
 # About Me:
-Data scientist based in Rochester with 5 years of combined work experience in software engineering, machine learning and computer vision. I like building stuff, watching movies, playing video games, playing football and drumming!
+Building computer vision systems with a focus in geospatial AI.
 
 
 ## Socials:
